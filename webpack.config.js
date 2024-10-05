@@ -8,7 +8,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const ESLintPlugin = require('eslint-webpack-plugin');
 const fs = require('fs');
 
-const BASE_HREF = 'reveal-multi-slides-template';
+const BASE_HREF = 'angular-in-60ish';
 
 // Function to generate HtmlWebpackPlugin instances for each HTML file
 function generateHtmlPlugins(templateDir) {

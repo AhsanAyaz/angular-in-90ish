@@ -1,5 +1,5 @@
 {
-  "name": "reveal-multi-slides-template",
+  "name": "angular-in-60ish",
   "version": "4.4.0",
   "description": "",
   "license": "MIT",
@@ -8,7 +8,7 @@
     "build": "npm run extract && cross-env NODE_ENV=production webpack --mode production",
     "extract": "node scripts/extractSlideData.js",
     "lint": "eslint ./js/**/* --fix",
-    "serve:prod": "npm run build && npx http-server ./dist -c-1 -o /reveal-multi-slides-template/"
+    "serve:prod": "npm run build && npx http-server ./dist -c-1 -o /angular-in-60ish/"
   },
   "author": {
     "name": "Muhammad Ahsan Ayaz",

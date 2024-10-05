@@ -1,10 +1,10 @@
 ## Contributing
 
-Please keep the [issue tracker](https://github.com/ahsanayaz/reveal-multi-slides-template/issues) limited to **bug reports**.
+Please keep the [issue tracker](https://github.com/ahsanayaz/angular-in-60ish/issues) limited to **bug reports**.
 
 ### General Questions and Support
 
-If you have questions about how to use reveal.js the best place to ask is in the [Discussions](https://github.com/ahsanayaz/reveal-multi-slides-template/discussions). Anything that isn't a bug report should be posted as a dicussion instead.
+If you have questions about how to use reveal.js the best place to ask is in the [Discussions](https://github.com/ahsanayaz/angular-in-60ish/discussions). Anything that isn't a bug report should be posted as a dicussion instead.
 
 ### Bug Reports
 

@@ -45,7 +45,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload dist folder
-          path: './dist/reveal-multi-slides-template'
+          path: './dist/angular-in-60ish'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

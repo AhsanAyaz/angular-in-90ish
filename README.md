@@ -7,5 +7,5 @@ This boilerplate allows you to create multiple slides using [Reveal.js](https://
 
 - 🚀 Click the "Use this template" button on the top right of this repository to create your own
 - 👀 Clone the repository in your machine
-- 📖 Install the dependencies and change all the occurances of "reveal-multi-slides-template" in the whole project including package.json and webpack.config.js
+- 📖 Install the dependencies and change all the occurances of "angular-in-60ish" in the whole project including package.json and webpack.config.js
 - 🖌 Continue developing
