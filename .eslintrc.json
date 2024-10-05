@@ -1,0 +1,21 @@
+{
+  "parserOptions": {
+    "ecmaVersion": "latest", // or a version high enough to support ES6+
+    "sourceType": "module", // Allows use of imports
+    "ecmaFeatures": {
+      "jsx": true // if you are using React
+    }
+  },
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "extends": [
+    "eslint:recommended",
+    // Add react presets if you're using React
+    "plugin:react/recommended"
+  ],
+  "rules": {
+    // Your custom rules
+  }
+}
