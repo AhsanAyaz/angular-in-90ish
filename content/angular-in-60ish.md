@@ -33,7 +33,7 @@
 
 ---
 
-![ng-cookbook](/assets/images/ng-cookbook-2.png)
+![ng-cookbook](assets/images/ng-cookbook-2.png)
 
 ---
 
@@ -139,11 +139,11 @@ ng new first-ng-app --inline-styles --inline-template
 
 Example
 
-![components](/assets/images/components-1.svg)
+![components](assets/images/components-1.svg)
 
 --
 
-![components-markup-1](/assets/images/app-mockup.svg)
+![components-markup-1](assets/images/app-mockup.svg)
 
 --
 
@@ -211,7 +211,7 @@ class MyComponent {
 
 --
 
-![home with nested components](/assets/images/home-with-nested-components.svg)
+![home with nested components](assets/images/home-with-nested-components.svg)
 
 --
 
@@ -288,7 +288,7 @@ This significantly improves the performance of the app, and user experience. <!-
 
 --
 
-![todos-route](/assets/images/todos-route.svg)
+![todos-route](assets/images/todos-route.svg)
 
 -- 
 
@@ -301,7 +301,7 @@ ng g c todos
 
 --
 
-![todoItem](/assets/images/todo-item.svg)
+![todoItem](assets/images/todo-item.svg)
 
 --
 
