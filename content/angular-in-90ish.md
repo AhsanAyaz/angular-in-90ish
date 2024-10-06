@@ -1,4 +1,4 @@
-# Angular in 60-ish minutes
+# Angular in 90-ish minutes
 
 
 #### Muhammad Ahsan Ayaz
@@ -28,7 +28,7 @@
 ## What is Angular
 
 - Web Applications framework for Single Page Apps (SPA) <!-- .element: class="fragment"  -->
-- Built  Google <!-- .element: class="fragment"  -->
+- Built by Google <!-- .element: class="fragment"  -->
 - Has a huge commmunity <!-- .element: class="fragment"  -->
 
 ---
