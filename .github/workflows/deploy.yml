@@ -45,7 +45,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload dist folder
-          path: './dist/angular-in-60ish'
+          path: './dist/angular-in-90ish'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
