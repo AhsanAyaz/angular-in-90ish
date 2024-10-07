@@ -130,7 +130,7 @@ ng --version
 ng new first-ng-app # optionally use --dry-run
 
 # create an app with some configuration
-ng new first-ng-app --inline-styles --inline-template
+ng new first-ng-app --inline-style --inline-template
 ```
 
 ---
@@ -290,7 +290,7 @@ This significantly improves the performance of the app, and user experience. <!-
 
 ![todos-route](assets/images/todos-route.svg)
 
--- 
+--
 
 #### Create another component (as a page) for the route
 
@@ -376,7 +376,7 @@ Angular pipes are used to transform data right in the templates
 
 ## [Built-in Angular pipes](https://angular.dev/guide/templates/pipes)
 
--- 
+--
 
 ## Let's create a todos filter pipe
 
